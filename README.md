@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
 
-   ```git clone https://github.com/ваше-имя/транспортир-и-линейка.git```
+   ```git clone https://github.com/AlexeyFilippov2004/protractor_and_ruler.git```
 
 2. Перейдите в папку проекта:
    ```cd транспортир-и-линейка```
